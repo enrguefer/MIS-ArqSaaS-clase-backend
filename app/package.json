@@ -1,0 +1,24 @@
+{
+  "name": "acme-market",
+  "version": "1.0.0",
+  "description": "REST API for ACME-Market",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enrguefer/MIS-ArqSaaS-clase-backend.git"
+  },
+  "author": "Enrique Guerrero Fernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enrguefer/MIS-ArqSaaS-clase-backend/issues"
+  },
+  "homepage": "https://github.com/enrguefer/MIS-ArqSaaS-clase-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11"
+  }
+}
